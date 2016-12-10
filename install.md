@@ -34,7 +34,7 @@ https://code.google.com/archive/p/kereds-notepad-plus-plus-plugins/downloads
 
 2. Füge Python bin directrory zu Windows Path Varibale.
 
-[Bild_PATH] (/path.jpg)
+[Bild_PATH] (/Path.jpg)
 
 3. Teste python mit folgendem Code
 
