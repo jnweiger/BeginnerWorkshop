@@ -39,10 +39,20 @@ https://code.google.com/archive/p/kereds-notepad-plus-plus-plugins/downloads
 3. Teste python mit folgendem Code
 
 
-[Code]
+[Code](/hallowelt.py)
 
 4. Führe folgendes in der CLI aus.
 
-[Bild_CLI]()
+[Bild_CLI](hallowelt.jpg)
+
+5. Funktioniert das tkinter modul nicht, dann installiere noch activeTCL im c:\Python - Verzeichnis
+
+
+http://www.activestate.com/activetcl/downloads
+
+
+
+Wir sehen uns beim Workshop
+
 
 
