@@ -1,1 +1,26 @@
+Hier wird die Installation unter Windows 7 beschrieben.
+
+linux User haben sollten kein Problem mit Python haben.
+
+
+1. Hole die das Python Installationspaket unter:
+
+
+https://www.python.org/downloads/
+
+Installiere es mit den Vorgeschlagenen Einstellungen zb. unter c:\PYTHON35_32
+
+
+Du kannst nach belieben deinen Code mit Notepad++ oder mit Komodo Edit schreiben.
+
+Ich empfehle einen von beiden zu installieren, Notepad++ ist sehr schnell und stabil...
+
+
+http://www.activestate.com/komodo-ide/downloads/edit
+
+https://notepad-plus-plus.org/download/v7.2.2.html
+
+Unter Notepad++ ist die Sprache Python noch erkennbar zu machen:
+
+
 
