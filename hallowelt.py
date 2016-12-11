@@ -1,6 +1,9 @@
-import tkinter 
-
-from tkinter.constants import *
+try:                # python3
+  import tkinter 
+  from tkinter.constants import *
+except:             # python2
+  import Tkinter as tkinter
+  from Tkconstants import *
 
 
 tk = tkinter.Tk()
