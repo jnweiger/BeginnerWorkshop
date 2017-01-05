@@ -14,11 +14,9 @@ solltest du die neuste Version (mindestens **Python 3.5**) installieren.
 # The first contact
 
 Da ```Python``` eine interpretierte Sprache ist, kannst du nach der Installation direkt interaktiv in der Konsole loslegen.
-Unter Windows kannst du deine Konsole ganz einfach öffnen indem du mit der <kbd>windows</kbd>-Taste das Start-Menü
-öffnest und dann ```cmd``` gefolgt von <kbd>enter</kbd> eintippst.
+Geh in den Ordner in den du Python installiert (z.B. ```C:\Python27```) hast und doppel-klicke auf ```python.exe```.
 
 ```bash
-$ python3.5
 Python 3.5.2 (default, Nov 17 2016, 17:05:23)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
